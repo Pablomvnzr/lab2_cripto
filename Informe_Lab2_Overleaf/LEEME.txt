@@ -1,8 +1,0 @@
-Informe de Laboratorio 2 - fuente LaTeX
-
-Subir informe.tex y la carpeta imagenes a Overleaf. Seleccionar pdfLaTeX y compilar dos veces para actualizar el indice y referencias.
-
-Pendiente antes de entregar: reemplazar los dos recuadros de Docker por capturas del levantamiento, docker compose ps y compose.yml.
-No se dispone de compilador LaTeX local: no se ha compilado ni verificado visualmente el PDF.
-Las capturas son originales, sin modificar; algunas contienen lineas cortadas. Los comandos se incluyen como texto para facilitar su lectura.
-La subseccion de diferencias cURL contiene cuatro diferencias del HTML y una quinta medicion de transferencia, aclarando la diferencia entre ambas.
