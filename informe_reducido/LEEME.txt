@@ -1,5 +1,0 @@
-Version reducida independiente.
-Subir este ZIP a Overleaf y seleccionar informereducido.tex como documento principal; utilizar pdfLaTeX.
-Las capturas se convirtieron a JPEG calidad 87, sin submuestreo de color, y se limitaron a 2000 x 2400 pixeles manteniendo proporciones.
-No se modificaron el contenido del informe ni los archivos originales.
-No se ha compilado el PDF: verificar la legibilidad a escala final.
