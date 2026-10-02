@@ -1,0 +1,10 @@
+admin
+gordonb
+1337
+pablo
+smithy
+root
+user
+test
+guest
+administrator
